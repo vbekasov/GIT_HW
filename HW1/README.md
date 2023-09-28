@@ -1,12 +1,12 @@
 
 # Home Work 1
 
-1. Как скопировать на свой компьютер репозиторий из github.com, что должно быть сделано предварительно?<br>
-   * `git config --global user.name "Your Name"` - set name<br>
-   * `git config --global user.email "youremail@gmail.com"` - set email<br>
+1. Как скопировать на свой компьютер репозиторий из github.com, что должно быть сделано предварительно?
+   * `git config --global user.name "Your Name"` - set name
+   * `git config --global user.email "youremail@gmail.com"` - set email
    * `git clone https://github.com/vbekasov/GIT_HW.git` - if HTTPS protocol. You can choose SSH as well
 
-2. Как получить на локальный компьютер изменения с github.com<br>
+2. Как получить на локальный компьютер изменения с github.com
    * `git pull`
 
 3. Какую информацию нам дают команда :
